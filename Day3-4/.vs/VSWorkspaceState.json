@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BooksApi",
+    "\\BooksApi\\BooksApi",
+    "\\BooksApi\\BooksApi.Entities",
+    "\\BooksApi\\BooksApi.Entities\\Entities",
+    "\\BooksApi\\BooksApi.Entities\\Migrations",
+    "\\BooksApi\\BooksApi.Entities\\Repositories",
+    "\\BooksApi\\BooksApi.Services",
+    "\\BooksApi\\BooksApi.Services\\Services",
+    "\\BooksApi\\BooksApi\\Controllers",
+    "\\BooksApi\\BooksApi\\Dto"
+  ],
+  "SelectedNode": "\\BooksApi\\BooksApi.Entities\\Entities\\Users.cs",
+  "PreviewInSolutionExplorer": false
+}
