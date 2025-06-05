@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BooksApi",
+    "\\BooksApi\\BooksApi",
+    "\\BooksApi\\BooksApi\\BooksApi"
+  ],
+  "SelectedNode": "\\BooksApi\\BooksApi\\BooksApi\\appsettings.Development.json",
+  "PreviewInSolutionExplorer": false
+}
