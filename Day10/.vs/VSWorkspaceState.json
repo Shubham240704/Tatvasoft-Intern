@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Mission",
+    "\\Mission\\Mission",
+    "\\Mission\\Mission\\Mission",
+    "\\Mission\\Mission\\Mission\\Mission.Entities",
+    "\\Mission\\Mission\\Mission\\Mission.Entities\\Models"
+  ],
+  "SelectedNode": "\\Mission\\Mission\\Mission\\Mission.Entities\\Models\\UpdateMissionRequestModel.cs",
+  "PreviewInSolutionExplorer": false
+}
